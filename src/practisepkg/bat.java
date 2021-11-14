@@ -12,6 +12,9 @@ public class bat extends apple{
 		System.out.println(super.bikespeed);
 		System.out.println(super.suzuki);
 		
+		//testing time for git stash 
+		//task 101 - will see if it stores in Temporarty as i have to handle 202 task
+		
 	}
 
 }
